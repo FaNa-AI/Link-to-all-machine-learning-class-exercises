@@ -8,12 +8,13 @@ Each repository includes its own detailed **README** with code, explanation, and
 
 ## 🔗 Project Links
 
-Exam link
+**Exam link**
+
 https://github.com/FaNa-AI/Exam-MainVision-ML-Models
 
 https://github.com/FaNa-AI/Exam-MainVision-CNN-ResNet-Models
 
-Project link
+**Project link**
 
 [![RNN](https://img.shields.io/badge/🔁-RNN-blue)](https://github.com/FaNa-AI/RNN)  
 [![Transformer](https://img.shields.io/badge/🔀-Transformer-darkred)](https://github.com/FaNa-AI/Transformer)  
