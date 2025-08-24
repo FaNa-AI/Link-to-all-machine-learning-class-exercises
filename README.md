@@ -8,7 +8,7 @@ Each repository includes its own detailed **README** with code, explanation, and
 
 ## 🔗 Project Links
 
-[![CNN ResNet Exam](https://img.shields.io/badge/🌐ResNet-Vision%20Exam-blue)](https://github.com/FaNa-AI/Exam-MainVision-CNN-ResNet-Models)
+[![CNN ResNet Exam](https://img.shields.io/badge/🌐Vision%20Exam-blue)](https://github.com/FaNa-AI/Exam-MainVision-CNN-ResNet-Models)
 [![RNN](https://img.shields.io/badge/🔁-RNN-blue)](https://github.com/FaNa-AI/RNN)  
 [![Transformer](https://img.shields.io/badge/🔀-Transformer-darkred)](https://github.com/FaNa-AI/Transformer)  
 [![CNN](https://img.shields.io/badge/🧠-CNN-orange)](https://github.com/FaNa-AI/CNN)  
