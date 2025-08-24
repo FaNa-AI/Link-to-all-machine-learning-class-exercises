@@ -16,7 +16,8 @@ Each repository includes its own detailed **README** with code, explanation, and
 [![Logistic Regression](https://img.shields.io/badge/📊-Logistic%20Regression-green)](https://github.com/FaNa-AI/logisticRegression)  
 [![Neural Predict](https://img.shields.io/badge/🔮-Neural%20Predict-purple)](https://github.com/FaNa-AI/Neuralpredict)  
 [![Titanic Classification](https://img.shields.io/badge/🛳️%20Neural%20Classification-Titanic-blue)](https://github.com/FaNa-AI/Neuralclassification-titanic)
-[![Neural Classification Titanic](https://img.shields.io/badge/🚢-Titanic%20Classification-yellow)](https://github.com/FaNa-AI/Neuralclassification-titanic)  
+[![Titanic Classification](https://img.shields.io/badge/🛳️-Neural%20Classification%20Titanic-blue)](https://github.com/FaNa-AI/Neuralclassification-titanic)
+
 [![Preprocessing Titanic](https://img.shields.io/badge/⚙️-Preprocessing%20Titanic-lightgrey)](https://github.com/FaNa-AI/preprocessing-Titanic)  
 [![General Preprocessing](https://img.shields.io/badge/🧹-Preprocessing-black)](https://github.com/FaNa-AI/preprocessing)  
 [![Linear Regression](https://img.shields.io/badge/📈-Linear%20Regression-brown)](https://github.com/FaNa-AI/Linear-Regression)  
