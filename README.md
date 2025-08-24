@@ -1,6 +1,6 @@
 # 📚 My Machine Learning Projects Hub
 
-Welcome to my Machine Learning Projects Hub 🎓  
+Welcome to my **Machine Learning Projects Hub** 🎓  
 This repository is a collection of links to all my class exercises and projects in **Machine Learning**.  
 Each repository includes its own detailed **README** with code, explanation, and results.  
 
@@ -19,11 +19,6 @@ Each repository includes its own detailed **README** with code, explanation, and
 - 🧹 [General Preprocessing](https://github.com/FaNa-AI/preprocessing) – Data cleaning and preprocessing utilities  
 - 📈 [Linear Regression](https://github.com/FaNa-AI/Linear-Regression) – Regression fundamentals with ML  
 - 🔍 [Data Exploration & Preprocessing](https://github.com/FaNa-AI/Data-exploration-and-preprocessing) – Exploratory Data Analysis + preprocessing  
-
----
-
-## 📝 Keywords
-Machine Learning, Deep Learning, Neural Networks, RNN, Transformer, CNN, ResNet, Logistic Regression, Linear Regression, Data Preprocessing, Titanic Dataset, AI, Python, PyTorch, Data Science  
 
 ---
 
