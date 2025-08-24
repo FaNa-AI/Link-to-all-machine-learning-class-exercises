@@ -10,7 +10,8 @@ Each repository includes its own detailed **README** with code, explanation, and
 
 - 🔁 [RNN](https://github.com/FaNa-AI/RNN) – Recurrent Neural Networks exercises  
 - 🔀 [Transformer](https://github.com/FaNa-AI/Transformer) – Transformer architecture practice  
-- 🧠 [CNN](https://github.com/FaNa-AI/CNN) – Convolutional Neural Networks  
+- 🧠 [CNN](https://github.com/FaNa-AI/CNN) – Convolutional Neural Networks
+- [![CNN](https://img.shields.io/badge/🧠-CNN-orange)](https://github.com/FaNa-AI/CNN)  
 - 🖼️ [ResNet](https://github.com/FaNa-AI/Resnet) – Residual Networks for deep learning  
 - 📊 [Logistic Regression](https://github.com/FaNa-AI/logisticRegression) – Binary classification model  
 - 🔮 [Neural Predict](https://github.com/FaNa-AI/Neuralpredict) – Neural networks for prediction tasks  
