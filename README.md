@@ -1,2 +1,6 @@
-# Link-to-all-machine-learning-class-exercises
-A hub repository that contains links to my other projects and exercises in machine learning
+
+# 📚 My Machine Learning Projects Hub
+
+This repository only contains links to my other repositories and exercises.
+
+## 🔗 Links
