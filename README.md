@@ -5,7 +5,9 @@ This repository only contains links to my other repositories and exercises.
 
 ## 🔗 Links
 https://github.com/FaNa-AI/RNN
+
 https://github.com/FaNa-AI/Transformer
+
 https://github.com/FaNa-AI/CNN
 https://github.com/FaNa-AI/Resnet
 https://github.com/FaNa-AI/logisticRegression
