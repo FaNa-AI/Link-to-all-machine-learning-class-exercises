@@ -7,6 +7,7 @@ Each repository includes its own detailed **README** with code, explanation, and
 ---
 
 ## 🔗 Project Links
+[![MainVision](https://img.shields.io/badge/👁️-MainVision-blue)](https://github.com/FaNa-AI/Exam-MainVision-ML-Models)
 
 [![RNN](https://img.shields.io/badge/🔁-RNN-blue)](https://github.com/FaNa-AI/RNN)  
 [![Transformer](https://img.shields.io/badge/🔀-Transformer-darkred)](https://github.com/FaNa-AI/Transformer)  
